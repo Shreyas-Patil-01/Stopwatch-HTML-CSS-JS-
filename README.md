@@ -13,7 +13,7 @@ This project is a simple stopwatch implemented using HTML, CSS, and JavaScript. 
 3. Use the Start, Stop, and Reset buttons to control the stopwatch.
 
 ## Preview
-C:\Users\Shreyas\Pictures\Screenshots\Screenshot (20).png
+![Screenshot (20)](https://github.com/Shreyas-Patil-01/Stopwatch-HTML-CSS-JS-/assets/138605973/28c98051-55a6-46d1-ab37-055731591329)
 
 ## Contributors
 - Shreyas Patil (https://github.com/Shreyas-Patil-01) - Developer
